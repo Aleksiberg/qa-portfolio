@@ -27,5 +27,5 @@ Steps:
 4. Click login
 
 Expected result:
-Error message "Invalid credentials" is displayed
-User stays on login page
+- Error message "Invalid credentials" is displayed
+- User stays on login page
