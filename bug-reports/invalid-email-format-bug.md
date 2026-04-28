@@ -6,7 +6,7 @@ The system displays a generic error message when email format is invalid
 **Environment:**
 - Browser: Chrome 120
 - OS: Windows 11
-- App version / Build:
+- App version / Build: N/A (test environment)
 
 **Preconditions:** 
 1. User is not authenticated
