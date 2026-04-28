@@ -1,5 +1,3 @@
-# QA Portfolio
-
 ## About me
 Hello, my name is Aleksei.
 
