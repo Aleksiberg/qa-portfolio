@@ -20,7 +20,7 @@ System displays: "Incorrect password"
 System displays generic message: "Invalid credentials"
 
 ## Severity
-Medium
+Low
 
 ## Priority
 Medium
