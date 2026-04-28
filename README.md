@@ -7,7 +7,7 @@ I am developing my expertise in QA Engineering and have hands-on experience in m
 
 I focus on improving software quality through structured testing and validation.
 
-## This repository contains:
+## Repository contents
 
 - Test cases for login functionality
 - Test plan
