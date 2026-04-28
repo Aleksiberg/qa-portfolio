@@ -1,7 +1,7 @@
 # Bug Report: Login with wrong password
 
 ## Description
-When user enters a wrong password, the error message is unclear.
+When a user enters an incorrect password, the system displays a generic error message ("Invalid credentials") instead of a specific message indicating that the password is incorrect.
 
 Environment:
 - Browser: Chrome 120
