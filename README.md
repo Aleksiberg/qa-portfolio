@@ -19,13 +19,13 @@ I focus on improving software quality through structured testing and validation.
 - C#
 - Basic automation
 
-## Goals
-I want to grow in software testing, test automation, and system analysis.
+## Focus
+- Software testing
+- Test automation
+- System analysis
 
 ## Tools
 - GitHub
-- Basic testing documentation
-- C#
 
 ## Projects
 
