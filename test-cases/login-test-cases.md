@@ -67,7 +67,7 @@ User is on the login page
 ## Expected result
 Error message is displayed indicating that the password field is required
 
-# Test Case 5: Login with invalid username valid password
+# Test Case 5: Login with invalid username and valid password
 
 ## Preconditions
 User is on the login page
