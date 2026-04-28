@@ -30,7 +30,7 @@ Expected result:
 - Error message "Invalid credentials" is displayed
 - User stays on login page
 
-# Test Case: Login with empty fields
+# Test Case 3: Login with empty fields
 
 ## Preconditions
 User is on the login page
@@ -44,7 +44,7 @@ User is on the login page
 ## Expected result
 An error message is displayed indicating that username and password are required
 
-# Test Case: Login with empty password field
+# Test Case 4: Login with empty password
 
 ## Preconditions
 User is on the login page
