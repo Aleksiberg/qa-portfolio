@@ -1,7 +1,7 @@
 # Bug Report: No validation message when submitting empty login form
 
 ## Description
-Login button does not show validation error when both fields are empty
+The login form does not display a validation error when both fields are empty.
 
 ## Steps to reproduce
 1. Open login page
