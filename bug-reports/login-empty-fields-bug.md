@@ -3,6 +3,11 @@
 ## Description
 The login form does not display a validation error when both fields are empty.
 
+Environment:
+
+Browser: Chrome 120
+OS: Windows 11
+
 ## Steps to reproduce
 1. Open login page
 2. Leave username empty
