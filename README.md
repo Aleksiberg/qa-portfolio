@@ -36,6 +36,6 @@ Artifacts:
 - [Test scenarios](./test-cases/test-scenarios.md)
 
 Results:
-- Identified issues in login validation
-- Verified error handling behavior
-- Ensured proper input validation
+- Identified issues in login validation (e.g. empty fields not properly handled)
+- Verified error handling behavior for invalid credentials
+- Ensured proper input validation for email format
