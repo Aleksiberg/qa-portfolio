@@ -53,7 +53,7 @@ User is on the login page
 ## Expected result
 Error message is displayed indicating that the password field is required
 
-# Test Case 4: Login with empty password fields
+# Test Case 4: Login with empty password field
 
 ## Preconditions
 User is on the login page
