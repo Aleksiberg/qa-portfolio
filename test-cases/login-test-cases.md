@@ -21,7 +21,7 @@ Steps:
 4. Click login
 
 Expected result:
-User is logged in and redirected to dashboard
+- User is logged in and redirected to dashboard
 
 
 ## Test Case 2: Invalid password
@@ -51,7 +51,7 @@ User is on the login page
 4. Click "Login" button
 
 ## Expected result
-Error message is displayed indicating that username and password are required
+- Error message is displayed indicating that username and password are required
 
 # Test Case 4: Login with empty password field
 
@@ -65,7 +65,7 @@ User is on the login page
 4. Click "Login" button
 
 ## Expected result
-Error message is displayed indicating that the password field is required
+- Error message is displayed indicating that the password field is required
 
 # Test Case 5: Login with invalid username and valid password
 
