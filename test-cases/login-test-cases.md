@@ -23,7 +23,7 @@ Steps:
 Expected result:
 - User is logged in and redirected to dashboard
 
-## Actual result:
+Actual result:
 - User is logged in and redirected to dashboard
 
 ## TС-02: Invalid password
@@ -41,7 +41,7 @@ Expected result:
 - Error message "Invalid credentials" is displayed
 - User stays on login page
 
-## Actual result:
+Actual result:
 - User is not logged in and redirected to dashboard
 
 # TС-03: Login with empty fields
@@ -55,10 +55,10 @@ User is on the login page
 3. Leave password field empty
 4. Click "Login" button
 
-## Expected result
+Expected result
 - Error message is displayed indicating that username and password are required
 
-## Actual result:
+Actual result:
 - User is not logged in and redirected to dashboard
 
 # TС-04: Login with empty password field
@@ -72,10 +72,10 @@ User is on the login page
 3. Leave password field empty
 4. Click "Login" button
 
-## Expected result
+Expected result
 - Error message is displayed indicating that the password field is required
 
-## Actual result:
+Actual result:
 - User is not logged in and redirected to dashboard
 
 # Test Case 5: Login with invalid username and valid password
@@ -89,11 +89,11 @@ User is on the login page
 3. Enter valid password
 4. Click "Login" button
 
-## Expected result
+Expected result
 - Error message "Invalid credentials" is displayed
 - User remains on the login page
 
-## Actual result:
+Actual result:
 - User is not logged in and redirected to dashboard
 
 # Test Case 6: Login with empty username
@@ -107,9 +107,9 @@ User is on the login page
 3. Enter valid password
 4. Click "Login" button
 
-## Expected result
+Expected result
 - Error message is displayed indicating that the username field is required
 - User remains on the login page
 
-## Actual result:
+Actual result:
 - User is not logged in and redirected to dashboard
