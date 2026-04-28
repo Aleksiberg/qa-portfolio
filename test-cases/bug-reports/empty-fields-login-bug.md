@@ -11,6 +11,7 @@ Login button does not show validation error when both fields are empty
 
 ## Expected result
 Error message is displayed indicating that username and password are required
+User remains on the login page
 
 ## Actual result
 Nothing happens after clicking the login button
