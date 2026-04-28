@@ -7,7 +7,7 @@ When user enters a wrong password, the error message is unclear.
 1. Open login page
 2. Enter valid username
 3. Enter wrong password
-4. Click "Login"
+4. Click "Login" button
 
 ## Expected result
 Clear error message is displayed (e.g. "Incorrect password")
