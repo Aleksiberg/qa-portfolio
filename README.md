@@ -1,4 +1,4 @@
-## About me
+## 👤 About me
 Hello, my name is Aleksei.
 
 I am based in Espoo and have 5+ years of experience in IT.  
@@ -11,27 +11,39 @@ I have hands-on experience in:
 
 My goal is to ensure software quality through systematic testing and continuous improvement.
 
-## Repository contents
+## 📁 Repository contents
 
 - **Test Cases** — structured test cases for login functionality  
 - **Test Plan** — detailed plan describing scope, approach, and testing strategy  
 - **Bug Reports** — documented issues found during testing  
 
-## Skills and Tools
+## 🛠️ Skills and Tools
 
-**Testing skills**
+### Testing skills
 - Manual testing
 - Test case design
 - Bug reporting
 - System analysis
 - Basic test automation
+- Test documentation
 
-**Technical skills**
+### Technical skills
 - C#
 - Troubleshooting
+- HTTP basics (requests, responses, status codes)
+- JSON understanding (key–value structure)
+- Client–server architecture (basic understanding)
+- SQL basics (reading simple SELECT queries)
+- HTML/CSS basics (reading and understanding UI elements)
+- API basics (GET/POST, reading responses in DevTools)
 
-**Tools**
+### Tools
 - GitHub
+- Chrome DevTools
+- DBeaver
+- VS Code
+- Trello
+- Azure (Cloud Shell, basic portal usage)
 
 ## Projects
 
