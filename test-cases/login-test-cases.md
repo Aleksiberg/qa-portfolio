@@ -78,7 +78,7 @@ Expected result
 Actual result:
 - User is not logged in and redirected to dashboard
 
-# Test Case 5: Login with invalid username and valid password
+# TС-05: Login with invalid username and valid password
 
 ## Preconditions
 User is on the login page
@@ -96,7 +96,7 @@ Expected result
 Actual result:
 - User is not logged in and redirected to dashboard
 
-# Test Case 6: Login with empty username
+# TС-06: Login with empty username
 
 ## Preconditions
 User is on the login page
