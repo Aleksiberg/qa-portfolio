@@ -80,3 +80,4 @@ User is on the login page
 
 ## Expected result
 Error message "Invalid credentials" is displayed
+User remains on the login page
