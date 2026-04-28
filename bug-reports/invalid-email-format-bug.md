@@ -6,6 +6,12 @@ The system displays a generic error message when email format is invalid
 Environment:
 - Browser: Chrome 120
 - OS: Windows 11
+- App version / Build:
+
+**Preconditions**  
+1. Пользователь не авторизован  
+2. Открыта страница логина (/login)  
+(здесь подставляешь свои реальные предусловия)
 
 ## Steps to reproduce
 1. Open login page
@@ -24,3 +30,5 @@ Low
 
 ## Priority
 Medium
+
+## Additional info
