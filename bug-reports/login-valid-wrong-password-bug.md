@@ -17,3 +17,6 @@ Error message is vague or confusing ("Invalid credentials")
 
 ## Severity
 Low
+
+## Priority
+Medium
