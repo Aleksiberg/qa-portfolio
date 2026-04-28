@@ -14,10 +14,10 @@ Environment:
 4. Click "Login" button
 
 ## Expected result
-System displays: "Incorrect password"
+The system displays: "Incorrect password"
 
 ## Actual result
-System displays generic message: "Invalid credentials"
+The system displays generic message: "Invalid credentials"
 
 ## Severity
 Low
