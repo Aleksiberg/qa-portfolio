@@ -1,3 +1,5 @@
+# QA Portfolio — Web Application Testing
+
 ## About me
 Hello, my name is Aleksei.
 
@@ -33,7 +35,9 @@ My goal is to ensure software quality through systematic testing and continuous 
 **Tools**
 - GitHub
 
-## Login functionality testing
+## Projects
+
+### Login module testing
 
 This project focuses on testing the login feature of a web application.  
 The goal was to verify validation logic, error handling, and user experience.
