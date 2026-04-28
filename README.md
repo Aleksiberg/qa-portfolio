@@ -18,3 +18,12 @@ I want to grow in software testing, test automation, and system analysis.
 - GitHub
 - Basic testing documentation
 - C#
+
+## Project Structure
+
+### Test Cases
+- Login functionality test cases (see /test-cases)
+
+### Bug Reports
+- Login with empty fields
+- Login with wrong password (see /bug-reports)
