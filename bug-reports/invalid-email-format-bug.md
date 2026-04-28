@@ -1,6 +1,6 @@
 **Bug Report: Error message is not specific when entering incorrect email format**
 
-**Description**
+**Description:**
 The system displays a generic error message when email format is invalid
 
 **Environment:**
@@ -8,26 +8,26 @@ The system displays a generic error message when email format is invalid
 - OS: Windows 11
 - App version / Build:
 
-**Preconditions** 
+**Preconditions:** 
 1. User is not authenticated
 2. Login page (/login) is opened
 
-**Steps to reproduce**
+**Steps to reproduce:**
 1. Open login page
 2. Enter Invalid email "test@"
 3. Enter any password
 4. Click "Login" button
 
-**Expected result**
+**Expected result:**
 The system displays: "Invalid email format"
 
-**Actual result**
+**Actual result:**
 The system displays generic message: "Invalid credentials"
 
-**Severity**
+**Severity:**
 Low
 
-**Priority**
+**Priority:**
 Medium
 
-**Additional info**
+**Additional info:**
