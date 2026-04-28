@@ -44,7 +44,7 @@ Expected result:
 Actual result:
 - User is not logged in and redirected to dashboard
 
-# TС-03: Login with empty fields
+## TС-03: Login with empty fields
 
 ## Preconditions
 User is on the login page
@@ -55,13 +55,13 @@ User is on the login page
 3. Leave password field empty
 4. Click "Login" button
 
-Expected result
+Expected result:
 - Error message is displayed indicating that username and password are required
 
 Actual result:
 - User is not logged in and redirected to dashboard
 
-# TС-04: Login with empty password field
+## TС-04: Login with empty password field
 
 ## Preconditions
 User is on the login page
@@ -72,13 +72,13 @@ User is on the login page
 3. Leave password field empty
 4. Click "Login" button
 
-Expected result
+Expected result:
 - Error message is displayed indicating that the password field is required
 
 Actual result:
 - User is not logged in and redirected to dashboard
 
-# TС-05: Login with invalid username and valid password
+## TС-05: Login with invalid username and valid password
 
 ## Preconditions
 User is on the login page
@@ -89,14 +89,14 @@ User is on the login page
 3. Enter valid password
 4. Click "Login" button
 
-Expected result
+Expected result:
 - Error message "Invalid credentials" is displayed
 - User remains on the login page
 
 Actual result:
 - User is not logged in and redirected to dashboard
 
-# TС-06: Login with empty username
+## TС-06: Login with empty username
 
 ## Preconditions
 User is on the login page
@@ -107,7 +107,7 @@ User is on the login page
 3. Enter valid password
 4. Click "Login" button
 
-Expected result
+Expected result:
 - Error message is displayed indicating that the username field is required
 - User remains on the login page
 
