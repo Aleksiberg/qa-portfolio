@@ -1,9 +1,17 @@
-# QA Portfolio
-
 ## About me
-Hello, my name is Aleksei.  
-I have a background in IT support and automation.  
-I am currently learning software testing and working towards becoming a QA Engineer.
+Hello, my name is Aleksei.
+
+I am based in Espoo with 5+ years of experience in IT.
+
+I am developing my expertise in QA Engineering and have hands-on experience in manual testing, including test case creation, bug reporting, and system analysis.
+
+I focus on improving software quality through structured testing and validation.
+
+## This repository contains:
+
+- Test cases for login functionality
+- Test plan
+- Bug reports
 
 ## Skills
 - Troubleshooting
