@@ -51,7 +51,7 @@ User is on the login page
 4. Click "Login" button
 
 ## Expected result
-Error message is displayed indicating that the password field is required
+Error message is displayed indicating that username and password are required
 
 # Test Case 4: Login with empty password field
 
