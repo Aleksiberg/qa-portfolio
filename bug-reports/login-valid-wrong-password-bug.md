@@ -1,4 +1,4 @@
-# Bug Report: Login with wrong password
+# Bug Report: Error message is not specific when entering incorrect password
 
 ## Description
 When a user enters an incorrect password, the system displays a generic error message ("Invalid credentials") instead of a specific message indicating that the password is incorrect.
