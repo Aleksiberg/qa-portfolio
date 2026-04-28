@@ -1,4 +1,4 @@
-# Bug Report: Error message is not specific when entering incorrect email format
+**Bug Report: Error message is not specific when entering incorrect email format**
 
 ## Description
 The system displays a generic error message when email format is invalid
