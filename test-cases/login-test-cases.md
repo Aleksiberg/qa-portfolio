@@ -51,9 +51,9 @@ User is on the login page
 4. Click "Login" button
 
 ## Expected result
-An error message is displayed indicating that username and password are required
+Error message is displayed indicating that the password field is required
 
-# Test Case 4: Login with empty password
+# Test Case 4: Login with empty password fields
 
 ## Preconditions
 User is on the login page
@@ -65,5 +65,4 @@ User is on the login page
 4. Click "Login" button
 
 ## Expected result
-An error message is displayed indicating that the password field is required
-
+Error message is displayed indicating that the password field is required
