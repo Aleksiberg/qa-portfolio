@@ -1,7 +1,7 @@
 # Bug Report: Error message is not specific when entering incorrect email format
 
 ## Description
-The System displays a generic error message when email format is invalid
+The system displays a generic error message when email format is invalid
 
 Environment:
 - Browser: Chrome 120
