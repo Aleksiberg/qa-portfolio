@@ -20,7 +20,7 @@ System should display a clear and specific error message such as "Incorrect pass
 Error message is vague or confusing ("Invalid credentials")
 
 ## Severity
-Low
+Medium
 
 ## Priority
 Medium
