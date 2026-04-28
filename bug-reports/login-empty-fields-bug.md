@@ -30,3 +30,5 @@ Medium
 
 **Priority:**
 High
+
+**Additional info:**
