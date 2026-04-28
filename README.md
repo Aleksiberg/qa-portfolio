@@ -25,5 +25,5 @@ I want to grow in software testing, test automation, and system analysis.
 
 Testing basic login functionality including validation and error handling.
 
-- Test cases
-- Bug reports
+- [Test cases](./test-cases)
+- [Bug reports](./bug-reports)
