@@ -79,5 +79,5 @@ User is on the login page
 4. Click "Login" button
 
 ## Expected result
-Error message "Invalid credentials" is displayed
-User remains on the login page
+- Error message "Invalid credentials" is displayed
+- User remains on the login page
