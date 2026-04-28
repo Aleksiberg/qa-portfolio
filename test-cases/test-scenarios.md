@@ -1,8 +1,11 @@
-# Test Scenarios: Login functionality
+# Scenario: Login with invalid password
 
-1. Login with valid credentials
-2. Login with invalid password
-3. Login with empty fields
-4. Login with invalid email format
-5. Password field masking
-6. Error message validation
+Preconditions: User is registered
+Steps:
+1. Open login page
+2. Enter valid email
+3. Enter invalid password
+4. Click Login
+Expected result:
+- Error message is displayed
+- User is not logged in
