@@ -1,4 +1,4 @@
-# QA Portfolio — Web Application Testing
+# QA Portfolio
 
 ## About me
 Hello, my name is Aleksei.
