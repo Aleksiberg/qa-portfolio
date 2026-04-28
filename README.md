@@ -13,9 +13,9 @@ My goal is to ensure software quality through systematic testing and continuous 
 
 ## Repository contents
 
-- Test cases for login functionality
-- Test plan
-- Bug reports
+- **Test Cases** — structured test cases for login functionality  
+- **Test Plan** — detailed plan describing scope, approach, and testing strategy  
+- **Bug Reports** — documented issues found during testing  
 
 ## Skills
 - Troubleshooting
