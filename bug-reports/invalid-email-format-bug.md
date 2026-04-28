@@ -14,7 +14,7 @@ Environment:
 4. Click "Login" button
 
 ## Expected result
-Error message "Invalid email format" is displayed.
+The system displays: "Invalid email format"
 
 ## Actual result
 The system displays generic message: "Invalid credentials"
