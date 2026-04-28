@@ -1,4 +1,4 @@
-# Bug Report: Login with empty fields
+# Bug Report: No validation message when submitting empty login form
 
 ## Description
 Login button does not show validation error when both fields are empty
@@ -10,7 +10,7 @@ Login button does not show validation error when both fields are empty
 4. Click "Login" button
 
 ## Expected result
-Error message is displayed indicating that username and password are required
+System displays: "Username and password are required"
 User remains on the login page
 
 ## Actual result
