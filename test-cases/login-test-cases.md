@@ -9,107 +9,104 @@ Testing login functionality
 
 # Login Page Test Cases
 
-## TС-01: Valid login
+## TC-01: Valid login
 
-Preconditions:
-User has a valid account
+**Title:** Valid login
 
-Steps:
+**Preconditions:**
+- User has a valid account
+- Login page is opened
+
+**Steps:**
 1. Open login page
 2. Enter valid username
 3. Enter valid password
-4. Click login
+4. Click "Login" button
 
-Expected result:
-- User is logged in and redirected to dashboard
+**Expected result:**
+- User is logged in
+- User is redirected to dashboard
 
-Actual result:
-- User is logged in and redirected to dashboard
+## TC-02: Invalid password
 
-## TС-02: Invalid password
+**Title:** Invalid password
 
-Preconditions:
-User has a valid account
+**Preconditions:**
+- User has a valid account
+- Login page is opened
 
-Steps:
+**Steps:**
 1. Open login page
 2. Enter valid username
 3. Enter wrong password
-4. Click login
+4. Click "Login" button
 
-Expected result:
+**Expected result:**
 - Error message "Invalid credentials" is displayed
-- User stays on login page
+- User stays on the login page
 
-Actual result:
-- User is not logged in and redirected to dashboard
+## TC-03: Login with empty fields
 
-## TС-03: Login with empty fields
+**Title:** Login with empty fields
 
-## Preconditions
-User is on the login page
+**Preconditions:**
+- Login page is opened
 
-## Steps
+**Steps:**
 1. Open login page
 2. Leave username field empty
 3. Leave password field empty
 4. Click "Login" button
 
-Expected result:
+**Expected result:**
 - Error message is displayed indicating that username and password are required
 
-Actual result:
-- User is not logged in and redirected to dashboard
+## TC-04: Login with empty password field
 
-## TС-04: Login with empty password field
+**Title:** Login with empty password field
 
-## Preconditions
-User is on the login page
+**Preconditions:**
+- Login page is opened
 
-## Steps
+**Steps:**
 1. Open login page
 2. Enter valid username
 3. Leave password field empty
 4. Click "Login" button
 
-Expected result:
+**Expected result:**
 - Error message is displayed indicating that the password field is required
 
-Actual result:
-- User is not logged in and redirected to dashboard
+## TC-05: Login with invalid username and valid password
 
-## TС-05: Login with invalid username and valid password
+**Title:** Login with invalid username and valid password
 
-## Preconditions
-User is on the login page
+**Preconditions:**
+- Login page is opened
 
-## Steps
+**Steps:**
 1. Open login page
 2. Enter invalid username
 3. Enter valid password
 4. Click "Login" button
 
-Expected result:
+**Expected result:**
 - Error message "Invalid credentials" is displayed
 - User remains on the login page
 
-Actual result:
-- User is not logged in and redirected to dashboard
+## TC-06: Login with empty username
 
-## TС-06: Login with empty username
+**Title:** Login with empty username
 
-## Preconditions
-User is on the login page
+**Preconditions:**
+- Login page is opened
 
-## Steps
+**Steps:**
 1. Open login page
 2. Leave username field empty
 3. Enter valid password
 4. Click "Login" button
 
-Expected result:
-- Error message is displayed indicating that the username field is required
+**Expected result:**
+- Error message indicating that the username field is required is displayed
 - User remains on the login page
-
-Actual result:
-- User is not logged in and redirected to dashboard
