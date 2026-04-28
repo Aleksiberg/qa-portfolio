@@ -17,7 +17,7 @@ Environment:
 System displays: "Incorrect password"
 
 ## Actual result
-Error message is vague or confusing ("Invalid credentials")
+System displays generic message: "Invalid credentials"
 
 ## Severity
 Medium
