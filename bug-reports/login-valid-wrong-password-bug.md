@@ -14,7 +14,7 @@ Environment:
 4. Click "Login" button
 
 ## Expected result
-Error message is displayed ("Incorrect password")
+System should display a clear and specific error message such as "Incorrect password" to help the user understand the issue.
 
 ## Actual result
 Error message is vague or confusing ("Invalid credentials")
