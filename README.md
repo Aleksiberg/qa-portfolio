@@ -1,11 +1,15 @@
 ## About me
 Hello, my name is Aleksei.
 
-I am based in Espoo with 5+ years of experience in IT.
+I am based in Espoo and have 5+ years of experience in IT.  
+I am developing my expertise in QA Engineering with a strong focus on manual testing, test design, and quality analysis.
 
-I am developing my expertise in QA Engineering and have hands-on experience in manual testing, including test case creation, bug reporting, and system analysis.
+I have hands-on experience in:
+- creating structured test cases
+- writing clear and reproducible bug reports
+- analyzing system behavior and validation logic
 
-I focus on improving software quality through structured testing and validation.
+My goal is to ensure software quality through systematic testing and continuous improvement.
 
 ## Repository contents
 
