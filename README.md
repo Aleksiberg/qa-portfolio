@@ -29,6 +29,7 @@ Scope:
 - Positive and negative scenarios
 - Input validation
 - Error messages
+
 Artifacts:
 - [Test cases](./test-cases)
 - [Bug reports](./bug-reports)
