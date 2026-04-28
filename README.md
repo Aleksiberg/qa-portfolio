@@ -27,3 +27,4 @@ Testing basic login functionality including validation and error handling.
 
 - [Test cases](./test-cases)
 - [Bug reports](./bug-reports)
+- [Test scenarios](./test-cases/test-scenarios.md)
