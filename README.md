@@ -17,18 +17,20 @@ My goal is to ensure software quality through systematic testing and continuous 
 - **Test Plan** — detailed plan describing scope, approach, and testing strategy  
 - **Bug Reports** — documented issues found during testing  
 
-## Skills
-- Troubleshooting
+## Skills and Tools
+
+**Testing skills**
+- Manual testing
+- Test case design
+- Bug reporting
 - System analysis
+- Basic test automation
+
+**Technical skills**
 - C#
-- Basic automation
+- Troubleshooting
 
-## Focus
-- Software testing
-- Test automation
-- System analysis
-
-## Tools
+**Tools**
 - GitHub
 
 ### Login functionality testing
