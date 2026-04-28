@@ -33,20 +33,24 @@ My goal is to ensure software quality through systematic testing and continuous 
 **Tools**
 - GitHub
 
-### Login functionality testing
+## Login functionality testing
 
-Tested login feature of a web application focusing on validation, error handling, and user experience.
+This project focuses on testing the login feature of a web application.  
+The goal was to verify validation logic, error handling, and user experience.
 
-Scope:
-- Positive and negative scenarios
-- Input validation
-- Error messages
+### Scope
+- Positive and negative login scenarios  
+- Input validation  
+- Error message behavior  
+- Basic security checks (HTML/SQL injection, password masking)
 
-Artifacts:
-- [Test cases](./test-cases)
+### Artifacts
+- [Test cases](./test-cases/login)
 - [Bug reports](./bug-reports)
+- [Test plan](./test-cases/login/test-plan-login.md)
 
-Results:
-- Identified issues in login validation (e.g. empty fields not properly handled)
-- Verified error handling behavior for invalid credentials
-- Ensured proper input validation for email format
+### Results
+- Identified issues in login validation (e.g., empty fields not properly handled)  
+- Verified correct error handling for invalid credentials  
+- Ensured proper input validation for email format  
+- Confirmed navigation behavior after successful and failed login attempts  
