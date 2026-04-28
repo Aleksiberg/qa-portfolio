@@ -1,3 +1,12 @@
+## Scope
+Testing login functionality
+
+## Test Coverage
+- Valid login
+- Invalid password
+- Empty fields
+- Empty password
+
 # Login Page Test Cases
 
 ## Test Case 1: Valid login
