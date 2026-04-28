@@ -1,7 +1,7 @@
 # Bug Report: Error message is not specific when entering incorrect email format
 
 ## Description
-System shows a generic error message when email format is invalid
+The System shows a generic error message when email format is invalid
 
 Environment:
 - Browser: Chrome 120
@@ -14,10 +14,10 @@ Environment:
 4. Click "Login" button
 
 ## Expected result
-System displays: "Invalid email format" and prevents submission
+The system displays: "Invalid email format" and prevents submission
 
 ## Actual result
-System displays generic message: "Invalid credentials"
+The system displays generic message: "Invalid credentials"
 
 ## Severity
 Low
