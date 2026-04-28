@@ -94,5 +94,5 @@ User is on the login page
 4. Click "Login" button
 
 ## Expected result
-An error message is displayed indicating that the username field is required
-User remains on the login page
+- Error message is displayed indicating that the username field is required
+- User remains on the login page
