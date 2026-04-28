@@ -23,8 +23,13 @@ I want to grow in software testing, test automation, and system analysis.
 
 ### Login functionality testing
 
-Testing basic login functionality including validation and error handling.
+Tested login feature of a web application focusing on validation, error handling, and user experience.
 
+Scope:
+- Positive and negative scenarios
+- Input validation
+- Error messages
+  
 - [Test cases](./test-cases)
 - [Bug reports](./bug-reports)
 - [Test scenarios](./test-cases/test-scenarios.md)
