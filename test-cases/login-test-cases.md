@@ -81,3 +81,18 @@ User is on the login page
 ## Expected result
 - Error message "Invalid credentials" is displayed
 - User remains on the login page
+
+# Test Case 6: Login with empty username
+
+## Preconditions
+User is on the login page
+
+## Steps
+1. Open login page
+2. Leave username field empty
+3. Enter valid password
+4. Click "Login" button
+
+## Expected result
+An error message is displayed indicating that the username field is required
+User remains on the login page
