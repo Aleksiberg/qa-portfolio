@@ -27,8 +27,6 @@ I focus on improving software quality through structured testing and validation.
 ## Tools
 - GitHub
 
-## Projects
-
 ### Login functionality testing
 
 Tested login feature of a web application focusing on validation, error handling, and user experience.
@@ -41,7 +39,6 @@ Scope:
 Artifacts:
 - [Test cases](./test-cases)
 - [Bug reports](./bug-reports)
-- [Test scenarios](./test-cases/test-scenarios.md)
 
 Results:
 - Identified issues in login validation (e.g. empty fields not properly handled)
