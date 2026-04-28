@@ -67,7 +67,7 @@ User is on the login page
 ## Expected result
 Error message is displayed indicating that the password field is required
 
-# Test Case 5: Login with invalid username
+# Test Case 5: Login with invalid username valid password
 
 ## Preconditions
 User is on the login page
@@ -79,4 +79,4 @@ User is on the login page
 4. Click "Login" button
 
 ## Expected result
-Error message is displayed indicating that the credentials are invalid
+Error message "Invalid credentials" is displayed
