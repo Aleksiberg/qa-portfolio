@@ -19,11 +19,9 @@ I want to grow in software testing, test automation, and system analysis.
 - Basic testing documentation
 - C#
 
-## Project Structure
+## Projects
 
-### Test Cases
-- Login functionality test cases (see /test-cases)
+### Login functionality testing
 
-### Bug Reports
-- Login with empty fields
-- Login with wrong password (see /bug-reports)
+- Test cases: /test-cases
+- Bug reports: /bug-reports
