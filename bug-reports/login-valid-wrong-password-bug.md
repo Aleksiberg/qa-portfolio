@@ -10,10 +10,10 @@ When user enters a wrong password, the error message is unclear.
 4. Click "Login" button
 
 ## Expected result
-Clear error message is displayed (e.g. "Incorrect password")
+Clear error message is displayed ("Incorrect password")
 
 ## Actual result
-Error message is vague or confusing (e.g. "Invalid credentials")
+Error message is vague or confusing ("Invalid credentials")
 
 ## Severity
 Low
