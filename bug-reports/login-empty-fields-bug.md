@@ -10,8 +10,7 @@ Login button does not show validation error when both fields are empty
 4. Click "Login" button
 
 ## Expected result
-The System displays: "Username and password are required"
-User remains on the login page
+The system displays: "Username and password are required" and the user remains on the login page.
 
 ## Actual result
 Nothing happens after clicking the login button
