@@ -7,7 +7,7 @@ The login form does not display a validation error when both fields are empty.
 
 - Browser: Chrome 120
 - OS: Windows 11
-- App version / Build:
+- App version / Build: N/A (test environment)
 
 **Preconditions**
 1. User is not authenticated
