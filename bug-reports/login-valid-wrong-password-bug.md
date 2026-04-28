@@ -5,7 +5,7 @@ When user enters a wrong password, the error message is unclear.
 
 Environment:
 - Browser: Chrome 120
-- OS: Windows 10
+- OS: Windows 11
 
 ## Steps to reproduce
 1. Open login page
